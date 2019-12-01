@@ -1,0 +1,1 @@
+These are some example CORE programs that we were given to test our implementation against.
